@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperstringify",
+        "uuid": 14343945,
+        "checksum": "e8tu3"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
